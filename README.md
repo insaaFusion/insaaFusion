@@ -5,7 +5,7 @@
 I’m living the dream.
 I’m familiar with a variety of programming languages, including, but I’m always adding new skills to my repertoire. Furthermore, I’m also eager to meet other software Developer in the area.
 
-Skills:  JS / HTML / CSS / REACT / React Native / Node JS / MongoDB and More
+Skills:  JavaScript / HTML / CSS / REACT / React Native / Node JS / MongoDB and More
 
 - 🔭 I’m currently working on Few JavaScript Projects 
 - 🌱 I’m currently learning Python 
