@@ -22,7 +22,7 @@ Skills:  JavaScript / HTML / CSS / REACT / React Native / Node JS / MongoDB and 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=insaafusion)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insaafusion)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insaafusion&layout=compact)](https://github.com/insaafusion/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=insaafusion&show_icons=true&count_private=true)  
 
